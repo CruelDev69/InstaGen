@@ -29,6 +29,6 @@
 
 ## Contact
 - **Discord:** Ahad#3257
-- **Social Media:** [Instagram](https://www.instagram.com), [Discord](https://discord.gg/balochistan), [Website](https://www.itscruel.cf)
+- **Social Media:** [Instagram](https://www.instagram.com/ahadnoor._), [Discord](https://discord.gg/balochistan), [Website](https://www.itscruel.cf)
 
 If you find this repository useful, please give it a star.
