@@ -1,38 +1,42 @@
+Here is a professional revision of your README:
+
+---
+
 # InstaGen
-A simple instagram unverified accounts generator made by Ahad#3257
 
-We are using [AntiBotMail](https://antibotmail.com) for emails.
+**InstaGen** is a tool for generating unverified Instagram accounts, developed by Ahad#3257. This project uses [AntiBotMail](https://antibotmail.com) for email generation.
 
-# How To Use?
-> [!WARNING]
-> DON'T DELETE ANY FILE
+## How to Use
 
-It is easy to use you can follow the steps below:
+### Prerequisites
+- Ensure all files remain intact.
 
-Type `npm install` to install all required packages.
+### Installation
+1. Install required packages:
+   ```bash
+   npm install
+   ```
 
-Type `node instagen.js` in console to launch Instagram Accounts Generator.
+2. Launch the generator:
+   ```bash
+   node instagen.js
+   ```
 
-You can run `generator.bat`to run this on loop.
+3. To run the generator in a loop, execute:
+   ```bash
+   generator.bat
+   ```
 
-# Instagram Account Generator:
-***
+## Notes
+- Credit the author when using this script.
+- Do not claim this script as your own. Report any misuse to me on Discord.
 
-<p align="center"><img width="600px" src="./assets/account_generator.png"/></p>
+## Contact
+- **Discord:** Ahad#3257
+- **Social Media:** [Instagram](https://www.instagram.com), [Discord](https://discord.gg), [Website](https://www.itscruel.cf)
 
-***
+If you find this repository useful, please give it a star.
 
-# Note:
-Use it but please give credits to author.
+---
 
-Skidding this code is not allowed if you see anyone taking credits of this script dm me on discord.
-
-You can make it email verified generator if you use your brain.
-
-# Social Media:
-[Instagram](https://www.instagram.com/ahadnoor._) ・
-[Discord](https://discord.gg/balochistan) ・
-[Website](https://www.itscruel.cf/) 
-
-# Discord: Ahad#3257
-If you liked this repo please don't forget to give it a star it would mean a lot.
+You can find the original repository [here](https://github.com/CruelDev69/InstaGen/blob/main/README.md).
