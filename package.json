@@ -1,0 +1,35 @@
+{
+  "name": "instaaccountgenerator",
+  "version": "1.0.0",
+  "description": "Twitter Account Generator Made By Ahad#3257",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahad#3257",
+  "license": "MIT",
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.27.3",
+    "anticaptcha": "^2.2.0",
+    "axios": "^1.7.2",
+    "cross-fetch": "^4.0.0",
+    "puppeteer": "^22.10.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "unique-names-generator": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruelDev69/InstaGen.git"
+  },
+  "keywords": [
+    "instagram",
+    "accountgenerator",
+    "tokengenerator"
+  ],
+  "bugs": {
+    "url": "https://github.com/CruelDev69/InstaGen/issues"
+  },
+  "homepage": "https://github.com/CruelDev69/InstaGen#readme"
+}
