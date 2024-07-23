@@ -34,3 +34,7 @@
 - **Social Media:** [Instagram](https://www.instagram.com/ahadnoor._), [Discord](https://discord.gg/balochistan), [Website](https://www.itscruel.cf)
 
 If you find this repository useful, please give it a star.
+
+---
+
+You can find the original repository [here](https://github.com/CruelDev69/InstaGen/blob/main/README.md).

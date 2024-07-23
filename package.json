@@ -1,8 +1,8 @@
 {
   "name": "instaaccountgenerator",
   "version": "1.0.0",
-  "description": "Twitter Account Generator Made By Ahad#3257",
-  "main": "main.js",
+  "description": "Instagram Account Generator Made By Ahad#3257",
+  "main": "instagen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
